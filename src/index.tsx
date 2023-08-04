@@ -6,7 +6,7 @@ const App = () => {
 
     return (
       <>
-        <HelloWorld name={'kim'}/>
+        <HelloWorld name={'you'}/>
       </>
     );
 };
